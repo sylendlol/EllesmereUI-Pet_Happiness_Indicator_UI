@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: EllesmereUI |cff0cd29fPet Happiness|r
+## Notes: Modern styles for the WoW Forever hunter pet happiness indicator (Icon, Dot, Bar, Pips, Text), Bottom position, "only when not happy" and pulse. Settings: Unit Frames > Pet > PET HAPPINESS.
+## Author: Custom
+## Version: 1.0.0
+## Dependencies: EllesmereUI, EllesmereUIUnitFrames
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+PetHappiness.lua
+PetHappiness_Options.lua
